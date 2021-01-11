@@ -33,4 +33,8 @@ function test_pull()
 	print('TEST');
 }
 
+function yell(){
+	echo "yelll";
+}
+
 ?>
